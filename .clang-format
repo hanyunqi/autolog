@@ -1,0 +1,4 @@
+BasedOnStyle: google
+IndentWidth: 4
+ColumnLimit: 80
+AccessModifierOffset: -4
